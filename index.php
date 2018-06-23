@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.regularcleaning.com");
+header("Location: http://www.glamourandgraceblog.com");
 die();
 ?>
